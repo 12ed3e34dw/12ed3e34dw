@@ -3,7 +3,6 @@
 ## I'm new to programming, learning the front end and back end.
 
 ## Languages and Tools
-
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logocolor=dba50f)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C&logocolor=ad820c)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logocolor=ad820c)
@@ -17,6 +16,6 @@
 ![Css](https://img.shields.io/badge/-cSS-090909?style=for-the-badge&logo=CSS&logocolor=ad820c)
 
  ## Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=ad820c)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logocolor=ad820c)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=ad820c)](https://web.telegram.org/a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logocolor=ad820c)](https://www.instagram.com/v1ad78?igsh=amtsNWZiYm5mbWJs)
 
