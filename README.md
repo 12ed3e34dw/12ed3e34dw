@@ -1,4 +1,4 @@
-![Header](https://github.com/12ed3e34dw/12ed3e34dw/blob/main/assert/Tproger____12_-_____.png)
+![Header]()
 
 ## I'm new to programming, learning the front end and back end.
 
