@@ -13,5 +13,6 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logocolor=ad820c)
 ![ASP.Net](https://img.shields.io/badge/-ASP.Net-090909?style=for-the-badge&logo=ASP&logocolor=ad820c)
 ![Sqllite](https://img.shields.io/badge/-Sqllite-090909?style=for-the-badge&logo=MYSql&logocolor=ad820c)
-
+![Html](https://img.shields.io/badge/-HTMl-090909?style=for-the-badge&logo=HTMl&logocolor=ad820c)
+![Css](https://img.shields.io/badge/-cSS-090909?style=for-the-badge&logo=CSS&logocolor=ad820c)
 Follow me
