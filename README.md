@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logocolor=ad820c)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logocolor=ad820c)
 ![Sqllite](https://img.shields.io/badge/-Sqllite-090909?style=for-the-badge&logo=MYSql&logocolor=ad820c)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
  ## Follow me
