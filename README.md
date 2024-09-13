@@ -16,4 +16,7 @@
 ![Html](https://img.shields.io/badge/-HTMl-090909?style=for-the-badge&logo=HTMl&logocolor=ad820c)
 ![Css](https://img.shields.io/badge/-cSS-090909?style=for-the-badge&logo=CSS&logocolor=ad820c)
 
-Follow me
+ ## Follow me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=ad820c)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logocolor=ad820c)
+
