@@ -21,6 +21,8 @@
  ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logocolor=ad820c)](https://web.telegram.org/a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logocolor=ad820c)](https://www.instagram.com/v1ad78?igsh=amtsNWZiYm5mbWJs)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=ad820c)](https://mail.google.com/mail/u/0/?hl=ru#inbox?compose=DmwnWstqxPlxZpSRQrVthkpGdkqghNsHdDnrTmwZXtdnDvKPPLXJqdtBRnctcTzcjwslfmjGKpqQ)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ed3e34dw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
