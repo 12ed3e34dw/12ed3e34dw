@@ -23,8 +23,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logocolor=ad820c)](https://www.instagram.com/v1ad78?igsh=amtsNWZiYm5mbWJs)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logocolor=ad820c)](https://mail.google.com/mail/u/0/?hl=ru#inbox?compose=DmwnWstqxPlxZpSRQrVthkpGdkqghNsHdDnrTmwZXtdnDvKPPLXJqdtBRnctcTzcjwslfmjGKpqQ)
 
-
+ 
+  ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ed3e34dw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12ed3e34dw&exclude_repo=github-readme-stats,anuraghazra.github.io)
