@@ -1,6 +1,5 @@
 ![Header](https://github.com/12ed3e34dw/12ed3e34dw/blob/main/assert/Tproger____12_-_____%20—%20копия.png)
 
-## I'm new to programming, learning the front end and back end.
 
 ## My skills
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logocolor=dba50f)
