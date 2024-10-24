@@ -26,6 +26,3 @@
   ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ed3e34dw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12ed3e34dw&exclude_repo=github-readme-stats,anuraghazra.github.io)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=12ed3e34dw&theme=neon&hide=issues,contribs,prs&card_width=100&rank_icon=github&text_bold=false&hide_title=true" /> 
-  </a>
