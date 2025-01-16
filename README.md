@@ -20,3 +20,5 @@
  
   ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12ed3e34dw&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
