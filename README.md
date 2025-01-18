@@ -21,4 +21,16 @@
   ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12ed3e34dw&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-
+# Tech Stack:
+<table>
+ <h1>Backend:</h1>
+ <tr>
+  <td aling="center" width="96">
+   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" height="45" />
+ </tr>
+ <h1>Frontend:</h1>
+ <tr>
+  <td aling="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+ </tr>
+</table>
